@@ -3,6 +3,7 @@
 **Author:** [TBD]
 **Draft:** 2026-04-21
 **Status:** Pre-print draft — all results empirically verified in-repo.
+**DOI:** [10.5281/zenodo.19684656](https://doi.org/10.5281/zenodo.19684656)
 
 ---
 

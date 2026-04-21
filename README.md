@@ -1,5 +1,7 @@
 # TCA_Explorer — a sparse 2D balanced-ternary cellular automaton
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19684656.svg)](https://doi.org/10.5281/zenodo.19684656)
+
 A 2D outer-totalistic CA over `{-1, 0, +1}` on a Moore neighborhood with toroidal
 boundaries. The rule has only **3 active entries out of 51** (λ ≈ 0.059), yet
 supports:
