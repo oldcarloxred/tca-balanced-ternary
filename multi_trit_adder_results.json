@@ -1,0 +1,86 @@
+{
+  "tests": [
+    {
+      "A": 5,
+      "B": 3,
+      "got": 8,
+      "expected": 8,
+      "ok": true,
+      "bt_A": "01TT",
+      "bt_B": "0010",
+      "bt_result": "0010T"
+    },
+    {
+      "A": 13,
+      "B": -7,
+      "got": 6,
+      "expected": 6,
+      "ok": true,
+      "bt_A": "0111",
+      "bt_B": "0T1T",
+      "bt_result": "001T0"
+    },
+    {
+      "A": -20,
+      "B": -15,
+      "got": -35,
+      "expected": -35,
+      "ok": true,
+      "bt_A": "T1T1",
+      "bt_B": "T110",
+      "bt_result": "0TT01"
+    },
+    {
+      "A": 40,
+      "B": 1,
+      "got": 41,
+      "expected": 41,
+      "ok": true,
+      "bt_A": "1111",
+      "bt_B": "0001",
+      "bt_result": "1TTTT"
+    },
+    {
+      "A": -40,
+      "B": -1,
+      "got": -41,
+      "expected": -41,
+      "ok": true,
+      "bt_A": "TTTT",
+      "bt_B": "000T",
+      "bt_result": "T1111"
+    },
+    {
+      "A": 27,
+      "B": 14,
+      "got": 41,
+      "expected": 41,
+      "ok": true,
+      "bt_A": "1000",
+      "bt_B": "1TTT",
+      "bt_result": "1TTTT"
+    },
+    {
+      "A": 0,
+      "B": 0,
+      "got": 0,
+      "expected": 0,
+      "ok": true,
+      "bt_A": "0000",
+      "bt_B": "0000",
+      "bt_result": "00000"
+    },
+    {
+      "A": 21,
+      "B": -21,
+      "got": 0,
+      "expected": 0,
+      "ok": true,
+      "bt_A": "1T10",
+      "bt_B": "T1T0",
+      "bt_result": "00000"
+    }
+  ],
+  "all_ok": true,
+  "sub_ok": true
+}
