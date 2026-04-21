@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: >-
+  A sparse 2D balanced-ternary cellular automaton with native
+  trit addition and Boolean universality
+message: If you use this work, please cite it using this metadata.
+type: software
+authors:
+  - alias: oldcarloxred
+date-released: "2026-04-21"
+doi: 10.5281/zenodo.19684656
+url: https://github.com/oldcarloxred/tca-balanced-ternary
+license: MIT
+keywords:
+  - cellular automata
+  - balanced ternary
+  - ternary computing
+  - trit adder
+  - Boolean universality
+  - gliders
+  - computational universality

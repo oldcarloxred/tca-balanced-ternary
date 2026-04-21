@@ -15,6 +15,12 @@ supports:
 
 See `PAPER_DRAFT.md` for the full write-up.
 
+![9-case trit-adder](trit_adder_9cases.gif)
+*All 9 balanced-ternary single-digit additions resolved in one CA collision each.*
+
+![Multi-trit ALU: 27+14=41](multi_trit_alu.gif)
+*4-trit ALU computing 27 + 14 = 41 with carry propagation (stage 1: a+b, stage 2: d1+cin).*
+
 ## Repository layout
 
 ```
